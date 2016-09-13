@@ -1,4 +1,4 @@
-# Duke-Waiting-List-Prediction
+# Duke Waiting List Prediction
 
 After painfully coming to terms with being put on the waiting list at my dream school, I began browsing through Duke’s wait-list FAQ’s to see if I could improve my chances in any way. A certain question struck me:
 
